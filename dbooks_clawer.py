@@ -5,7 +5,7 @@ import sys
 
 URL_HOST = "https://www.dbooks.org"
 SAVE_AT = "./dbooks"
-README = "./DBOOKS_README.md"
+README = "./README.md"
 CHUNK_SIZE = 1024
 PROGRESS_LEN = 50
 
